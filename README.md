@@ -36,7 +36,6 @@ Here's a walkthrough of implemented user stories:
 
 Revised: https://imgur.com/RV5K6h2
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
