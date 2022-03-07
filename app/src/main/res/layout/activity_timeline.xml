@@ -7,10 +7,29 @@
     android:layout_height="match_parent"
     tools:context=".TimelineActivity">
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rvTweets"
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipeContainer"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginStart="0dp"
-        android:layout_marginTop="0dp" />
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="#2196F3">
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvTweets"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="0dp" />
+
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
 </RelativeLayout>

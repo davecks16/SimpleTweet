@@ -20,6 +20,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="5dp"
         android:layout_toEndOf="@+id/ivProfileImage"
+        android:textColor="#FFFFFF"
         tools:text="davecks16" />
 
     <TextView
@@ -30,6 +31,19 @@
         android:layout_marginStart="5dp"
         android:layout_marginTop="2dp"
         android:layout_toEndOf="@+id/ivProfileImage"
+        android:textColor="#FFFFFF"
         tools:text="This is my tweet biatch!!" />
+
+    <TextView
+        android:id="@+id/tvTimeStamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvBody"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@+id/ivProfileImage"
+        android:text="5m ago"
+        android:textSize="8sp"
+        tools:text="5m ago" />
 
 </RelativeLayout>
