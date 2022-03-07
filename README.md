@@ -1,5 +1,6 @@
-# Project 2 - SimpleTweet
-SimpleTweet is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+# Project 2 - *Name of App Here*
+
+**Name of your app** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **X** hours spent in total
 
@@ -17,12 +18,12 @@ The following **optional** features are implemented:
 
 - [x] User can view more tweets as they scroll with infinite pagination
 - [x] Improve the user interface and theme the app to feel "twitter branded"
-- [x] Links in tweets are clickable and will launch the web browser
-- [x] User can tap a tweet to display a "detailed" view of that tweet
-- [x] User can see embedded image media within the tweet detail view
-- [] User can watch embedded video within the tweet
+- [ ] Links in tweets are clickable and will launch the web browser
+- [ ] User can tap a tweet to display a "detailed" view of that tweet
+- [ ] User can see embedded image media within the tweet detail view
+- [ ] User can watch embedded video within the tweet
 - [x] User can open the twitter app offline and see last loaded tweets
-- [] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
+- [ ] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
 
 The following **additional** features are implemented:
 
@@ -32,10 +33,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/sSB6oPn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Revised: https://imgur.com/RV5K6h2
-
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
