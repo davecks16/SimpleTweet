@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/gNow73o.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/gNow73o.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -101,7 +101,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/EX1mVzr.gif' title='Video Walkthrough For Part 2' width='' alt='Video Walkthrough' />
+https://i.imgur.com/EX1mVzr.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
